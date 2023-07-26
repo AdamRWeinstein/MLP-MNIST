@@ -39,7 +39,7 @@ The code provides methods to:
 Simply run the script using Python:
 
 ```
-python mlp_mnist.py
+python main.py
 ```
 
 The script will load the data, train the MLP, and print the cross-entropy loss for each batch at every epoch. It will also print the accuracy on the test set after training is complete.
